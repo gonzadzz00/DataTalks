@@ -49,5 +49,11 @@ La Parte 2 está dedicada al despliegue de modelos, que implica poner modelos de
 8. [Serverless Deep Learning](#serverless-deep-learning)
 9. [Kubernetes and TensorFlow Serving](#kubernetes-and-tensorflow-serving)
 
-[Link a repositorio del Curso](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+
+
+<div style="display: flex; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" alt="Descripción de la imagen" width="20" height="20" style="margin-right: 10px;">
+    <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank">Link a repositorio del Curso</a>
+</div>
 

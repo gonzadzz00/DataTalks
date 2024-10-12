@@ -3,7 +3,7 @@
 
 1. [Introduction to Machine Learning](https://github.com/gonzadzz00/DataTalks/blob/main/1-Homework-Introduction.ipynb)
 2. [Machine Learning for Regression](https://github.com/gonzadzz00/DataTalks/blob/main/2-Homework-Machine-Learning-for-Regression.ipynb)
-3. [Machine Learning for Classification](#machine-learning-for-classification)
+3. [Machine Learning for Classification](https://github.com/gonzadzz00/DataTalks/blob/main/3-Homework-Machine-Learning-for-Classification.ipynb)
 4. [Evaluation Metrics for Classification](#evaluation-metrics-for-classification)
 5. [Deploying Machine Learning Models](#deploying-machine-learning-models)
 6. [Decision Trees and Ensemble Learning](#decision-trees-and-ensemble-learning)
